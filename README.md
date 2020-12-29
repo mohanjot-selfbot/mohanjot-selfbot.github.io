@@ -5,7 +5,7 @@ This selfbot was developed by King Herod
 YT : https://www.youtube.com/channel/UCsA_7fCEAZRMD6cYBqK594A
 
 
-### Mohanjot Selfbot | Command List
+## Mohanjot Selfbot | Command List
 
 jsinject      | Inject any code into Chrome console  | ,jsinject (your code)
  
